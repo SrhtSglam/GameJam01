@@ -17,10 +17,3 @@
 <p style="font-size: 1.2em; font-family: 'Arial', sans-serif; font-weight: bold; color: #333;">
   <span style="color: #2f7f8f;">Ekip Üyeleri:</span>
 </p>
-
-<ul style="font-size: 1.1em; font-family: 'Arial', sans-serif; color: #444;">
-  <li><strong>Serhat</strong> (Ben) - Proje yönetimi ve geliştirme</li>
-  <li><strong>Reyhan</strong> - Oyun tasarımı ve grafikler</li>
-  <li><strong>Fatih</strong> - Kodlama ve mekanikler</li>
-  <li><strong>Emir</strong> - Kart tasarımları ve UI</li>
-</ul>
