@@ -13,7 +13,3 @@
 
 - <strong>Unity</strong> (Geliştirme)  
 - <strong>C#</strong> (Kodlama)  
-
-<p style="font-size: 1.2em; font-family: 'Arial', sans-serif; font-weight: bold; color: #333;">
-  <span style="color: #2f7f8f;">Ekip Üyeleri:</span>
-</p>
